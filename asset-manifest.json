@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proshop_django/static/css/main.1e2f654c.chunk.css",
+    "main.js": "/proshop_django/static/js/main.327dd52d.chunk.js",
+    "main.js.map": "/proshop_django/static/js/main.327dd52d.chunk.js.map",
+    "runtime-main.js": "/proshop_django/static/js/runtime-main.b3acc820.js",
+    "runtime-main.js.map": "/proshop_django/static/js/runtime-main.b3acc820.js.map",
+    "static/js/2.9b42131c.chunk.js": "/proshop_django/static/js/2.9b42131c.chunk.js",
+    "static/js/2.9b42131c.chunk.js.map": "/proshop_django/static/js/2.9b42131c.chunk.js.map",
+    "static/js/3.a7513fca.chunk.js": "/proshop_django/static/js/3.a7513fca.chunk.js",
+    "static/js/3.a7513fca.chunk.js.map": "/proshop_django/static/js/3.a7513fca.chunk.js.map",
+    "index.html": "/proshop_django/index.html",
+    "static/css/main.1e2f654c.chunk.css.map": "/proshop_django/static/css/main.1e2f654c.chunk.css.map",
+    "static/js/2.9b42131c.chunk.js.LICENSE.txt": "/proshop_django/static/js/2.9b42131c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3acc820.js",
+    "static/js/2.9b42131c.chunk.js",
+    "static/css/main.1e2f654c.chunk.css",
+    "static/js/main.327dd52d.chunk.js"
+  ]
+}
