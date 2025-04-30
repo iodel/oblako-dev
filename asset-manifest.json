@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oblako-dev/static/css/main.500ee1b4.chunk.css",
-    "main.js": "/oblako-dev/static/js/main.057ba0dd.chunk.js",
-    "main.js.map": "/oblako-dev/static/js/main.057ba0dd.chunk.js.map",
+    "main.js": "/oblako-dev/static/js/main.32f4060e.chunk.js",
+    "main.js.map": "/oblako-dev/static/js/main.32f4060e.chunk.js.map",
     "runtime-main.js": "/oblako-dev/static/js/runtime-main.82fd82f0.js",
     "runtime-main.js.map": "/oblako-dev/static/js/runtime-main.82fd82f0.js.map",
     "static/js/2.f59b1d50.chunk.js": "/oblako-dev/static/js/2.f59b1d50.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.82fd82f0.js",
     "static/js/2.f59b1d50.chunk.js",
     "static/css/main.500ee1b4.chunk.css",
-    "static/js/main.057ba0dd.chunk.js"
+    "static/js/main.32f4060e.chunk.js"
   ]
 }
