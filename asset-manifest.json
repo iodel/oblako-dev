@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/oblako-dev/static/css/main.12175898.chunk.css",
-    "main.js": "/oblako-dev/static/js/main.9cdff14b.chunk.js",
-    "main.js.map": "/oblako-dev/static/js/main.9cdff14b.chunk.js.map",
+    "main.js": "/oblako-dev/static/js/main.c3ba08c6.chunk.js",
+    "main.js.map": "/oblako-dev/static/js/main.c3ba08c6.chunk.js.map",
     "runtime-main.js": "/oblako-dev/static/js/runtime-main.0d18e52e.js",
     "runtime-main.js.map": "/oblako-dev/static/js/runtime-main.0d18e52e.js.map",
-    "static/js/2.946470b7.chunk.js": "/oblako-dev/static/js/2.946470b7.chunk.js",
-    "static/js/2.946470b7.chunk.js.map": "/oblako-dev/static/js/2.946470b7.chunk.js.map",
+    "static/js/2.90bc0c8b.chunk.js": "/oblako-dev/static/js/2.90bc0c8b.chunk.js",
+    "static/js/2.90bc0c8b.chunk.js.map": "/oblako-dev/static/js/2.90bc0c8b.chunk.js.map",
     "static/js/3.4c231eb6.chunk.js": "/oblako-dev/static/js/3.4c231eb6.chunk.js",
     "static/js/3.4c231eb6.chunk.js.map": "/oblako-dev/static/js/3.4c231eb6.chunk.js.map",
     "index.html": "/oblako-dev/index.html",
     "static/css/main.12175898.chunk.css.map": "/oblako-dev/static/css/main.12175898.chunk.css.map",
-    "static/js/2.946470b7.chunk.js.LICENSE.txt": "/oblako-dev/static/js/2.946470b7.chunk.js.LICENSE.txt"
+    "static/js/2.90bc0c8b.chunk.js.LICENSE.txt": "/oblako-dev/static/js/2.90bc0c8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0d18e52e.js",
-    "static/js/2.946470b7.chunk.js",
+    "static/js/2.90bc0c8b.chunk.js",
     "static/css/main.12175898.chunk.css",
-    "static/js/main.9cdff14b.chunk.js"
+    "static/js/main.c3ba08c6.chunk.js"
   ]
 }
